@@ -2,7 +2,7 @@
 
 An intelligent test automation framework that **actually executes** your test cases on real websites and mobile apps!
 
-## ✨ Features 
+## ✨ Features
 
 - 🌐 **Web Testing** - Automated testing using Playwright
 - 📱 **Mobile Testing** - Android & iOS testing using Appium
