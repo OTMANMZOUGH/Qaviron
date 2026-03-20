@@ -2,7 +2,7 @@
 
 An intelligent test automation framework that **actually executes** your test cases on real websites and mobile apps!
 
-## ✨ Features 
+## ✨ Features
 
 - 🌐 **Web Testing** - Automated testing using Playwright
 - 📱 **Mobile Testing** - Android & iOS testing using Appium
@@ -11,7 +11,7 @@ An intelligent test automation framework that **actually executes** your test ca
 - 🎯 **Confidence Scoring** - AI-powered test confidence levels
 - ⚡ **Real Execution** - Not just script generation, actual test execution!
 
-## 🚀 Quick Start 
+## 🚀 Quick Start
 
 ### Prerequisites
 
